@@ -1,0 +1,7 @@
+.venv/
+photo.jpg
+photo.jpg
+.DS_Store
+__pycache__/
+source-photo.*
+photo.*
