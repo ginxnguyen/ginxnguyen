@@ -6,6 +6,11 @@
 <br><br>
 
 <h3><code>ginxnguyen@github ~ $ whoami</code></h3>
-<img src="./portrait-ascii.svg" width="500" />
+<table>
+  <tr>
+    <td valign="top"><img src="./ginxnguyen-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
 
 </div>

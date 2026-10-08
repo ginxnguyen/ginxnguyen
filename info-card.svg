@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="256" viewBox="0 0 490 256">
+<style>text{font-family:ui-monospace,Menlo,Consolas,monospace;font-size:13px}.k{font-weight:bold}.l{opacity:0;animation:in .45s ease-out forwards}@keyframes in{from{opacity:0;transform:translateX(-10px)}to{opacity:1;transform:translateX(0)}}</style>
+<rect x="0.5" y="0.5" width="489" height="255" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="488" height="31" rx="9" fill="#161b22"/>
+<rect x="1" y="20" width="488" height="12" fill="#161b22"/>
+<circle cx="18" cy="16" r="6" fill="#ff5f56"/>
+<circle cx="38" cy="16" r="6" fill="#ffbd2e"/>
+<circle cx="58" cy="16" r="6" fill="#27c93f"/>
+<text x="245.0" y="20" text-anchor="middle" fill="#8b949e" style="font-size:12px">neofetch</text>
+<g class="l" style="animation-delay:0.00s"><text class="k" x="24" y="64" fill="#58a6ff"></text><text x="130" y="64" fill="#58a6ff">ginxnguyen@github</text></g>
+<g class="l" style="animation-delay:0.18s"><text class="k" x="24" y="86" fill="#30363d"></text><text x="130" y="86" fill="#30363d">-----------------</text></g>
+<g class="l" style="animation-delay:0.36s"><text class="k" x="24" y="108" fill="#ff7b72">Now:</text><text x="130" y="108" fill="#c9d1d9">Data Scientist · NLP &amp; AI research</text></g>
+<g class="l" style="animation-delay:0.54s"><text class="k" x="24" y="130" fill="#ff7b72"></text><text x="130" y="130" fill="#c9d1d9">Socioeconomic Statistics @ UE-UDN</text></g>
+<g class="l" style="animation-delay:0.72s"><text class="k" x="24" y="152" fill="#7ee787">Stack:</text><text x="130" y="152" fill="#c9d1d9">Python · SQL · Power BI </text></g>
+<g class="l" style="animation-delay:0.90s"><text class="k" x="24" y="174" fill="#d2a8ff">Highlights:</text><text x="130" y="174" fill="#c9d1d9">BERTopic · 6 languages · Da Nang/Hoi An</text></g>
+<g class="l" style="animation-delay:1.08s"><text class="k" x="24" y="196" fill="#d2a8ff"></text><text x="130" y="196" fill="#c9d1d9">ABSA with local LLMs</text></g>
+<g class="l" style="animation-delay:1.26s"><text class="k" x="24" y="218" fill="#d2a8ff"></text><text x="130" y="218" fill="#c9d1d9">Vietnamese medical NER + ICD-10 linking</text></g>
+</svg>
